@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "vault": "REPLACE_WITH_EXISTING_VAULT",
+  "system_data": "REPLACE_WITH_PRIVATE_SYSTEM_DATA",
+  "module_config": "REPLACE_WITH_SHARED_MODULE_CONFIG",
+  "card_index": "REPLACE_WITH_EXISTING_CARD_INDEX",
+  "source_index": "REPLACE_WITH_EXISTING_SOURCE_INDEX",
+  "registry": "REPLACE_WITH_UNIQUE_TOOL_REGISTRY",
+  "internal_card_folders": [],
+  "auto_intake_skills": false,
+  "general_skill_root": null,
+  "general_skill_repository": null,
+  "skills_overview_filename": "REPLACE_WITH_EXISTING_SKILLS_OVERVIEW",
+  "internal_overview_heading": "REPLACE_WITH_INTERNAL_TOOLS_HEADING"
+}

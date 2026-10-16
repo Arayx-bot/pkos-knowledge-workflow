@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "default_profile": "current",
+  "modules": {
+    "thinking": {"directory": "01-思考", "label": "思考", "types": ["thought"], "legacy_aliases": ["01-思想"]},
+    "knowledge": {"directory": "02-知识", "label": "知识", "types": ["knowledge"], "legacy_aliases": []},
+    "skills": {"directory": "03-技能", "label": "技能", "types": ["tool"], "legacy_aliases": []},
+    "projects": {"directory": "04-项目", "label": "项目", "types": ["project"], "legacy_aliases": []},
+    "timeline": {"directory": "05-成长时间线", "label": "成长时间线", "types": ["weekly"], "legacy_aliases": []},
+    "media": {"directory": "06-自媒体", "label": "自媒体", "types": ["script"], "legacy_aliases": []}
+  },
+  "profiles": {
+    "legacy_v3": {
+      "thinking": "001.思想", "knowledge": "002.知识", "skills": "006.能力成长",
+      "projects": "003.项目", "timeline": "004.个人时间线", "media": "005.自媒体创作"
+    }
+  }
+}

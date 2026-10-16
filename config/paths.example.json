@@ -1,0 +1,7 @@
+{
+  "system_data": "REPLACE_WITH_LOCAL_SYSTEM_DATA",
+  "workspace": "REPLACE_WITH_LOCAL_WORKSPACE",
+  "legacy_vault": "REPLACE_WITH_LOCAL_LEGACY_VAULT",
+  "context_script": "REPLACE_WITH_LOCAL_CONTEXT_SCRIPT",
+  "module_config": "REPLACE_WITH_SHARED_MODULE_CONFIG"
+}

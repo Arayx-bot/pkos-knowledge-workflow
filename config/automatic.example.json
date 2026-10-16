@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "enabled": false,
+  "authorization": {
+    "reference": "REPLACE_WITH_OWNER_MESSAGE_REFERENCE",
+    "quote": "REPLACE_WITH_EXPLICIT_OWNER_AUTHORIZATION"
+  },
+  "system_data": "REPLACE_WITH_PRIVATE_SYSTEM_DATA",
+  "vault": "REPLACE_WITH_EXISTING_VAULT",
+  "module_config": "REPLACE_WITH_SHARED_MODULE_CONFIG",
+  "card_index": "REPLACE_WITH_EXISTING_CARD_INDEX",
+  "source_index": "REPLACE_WITH_EXISTING_SOURCE_INDEX",
+  "sessions": [
+    {
+      "id": "REPLACE_WITH_AUTHORIZED_SESSION_ID",
+      "path": "REPLACE_WITH_EXACT_SESSION_JSONL"
+    }
+  ],
+  "routing": {
+    "thought": {
+      "folder": "REPLACE_WITH_EXISTING_THOUGHT_FOLDER",
+      "overview": "REPLACE_WITH_THOUGHT_OVERVIEW"
+    },
+    "knowledge": {
+      "folder": "REPLACE_WITH_EXISTING_KNOWLEDGE_FOLDER",
+      "overview": "REPLACE_WITH_KNOWLEDGE_OVERVIEW"
+    }
+  },
+  "publication_config": null
+}
